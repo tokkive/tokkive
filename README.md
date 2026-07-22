@@ -1,68 +1,57 @@
 ```md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:1565C0&height=200&section=header&text=Tokkive&fontSize=80&fontColor=FFFFFF&animation=fadeIn" />
+<img src="SEU_GIF_DE_CODIGO_AQUI" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Technology+%7C+Innovation" />
+# 🐰 Tokkive
+
+### Cybersecurity • Technology • Innovation
 
 </div>
 
 ---
 
-# 🐰 About Tokkive
+## 🛡️ About Tokkive
 
-Tokkive is a technology company focused on cybersecurity, innovation and digital security.
+Tokkive is a cybersecurity-focused technology company dedicated to creating secure, innovative and reliable digital solutions.
 
-We create and explore technologies designed to make the digital world safer, smarter and more reliable.
-
----
-
-# 🛡️ Our Mission
-
-Our mission is to develop secure solutions and share knowledge that helps people and organizations protect themselves in an increasingly connected world.
+We explore the intersection between technology and security to help build a safer digital future.
 
 ---
 
-# 🌐 Our Vision
+## 🔐 Our Purpose
 
-To become a technology company recognized for innovation, security and the ability to transform ideas into impactful solutions.
+Protecting the digital world through:
 
----
-
-# 💙 Our Values
-
-🔒 **Security**  
-Protecting information and digital environments.
-
-💡 **Innovation**  
-Exploring new technologies and creative solutions.
-
-🌎 **Accessibility**  
-Making technology easier and safer for everyone.
-
-🤝 **Community**  
-Learning, sharing knowledge and growing together.
+- Cybersecurity solutions
+- Technology innovation
+- Security research
+- Knowledge sharing
 
 ---
 
-# 🚀 Areas of Focus
+## 🌐 Areas of Focus
 
-Currently focused on:
+🛡️ Cybersecurity  
+💻 Software Development  
+☁️ Cloud Security  
+🤖 Emerging Technologies  
 
-- 🛡️ Cybersecurity
-- 💻 Software Development
-- ☁️ Cloud Technology
-- 🤖 Emerging Technologies
+---
+
+## 🐰 Tokkiti
+
+Tokkiti is the official mascot of Tokkive.
+
+A symbol of curiosity, intelligence and innovation — always exploring new possibilities in technology.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,100:0D47A1&height=100&section=footer" />
-
-🐰 **Tokkive**  
+**Tokkive**  
 *Building a safer digital future.*
 
 </div>
